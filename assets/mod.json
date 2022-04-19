@@ -3,8 +3,7 @@
   "displayName": "Unit Construct",
   "author": "Someone",
   "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system.",
-  "version": "1.0 beta",
-  "main": "construct.UnitConstruct",
+  "version": "1.0 beta"
   "minGameVersion": "126.2",
   "hidden": false,
   "java": true,
